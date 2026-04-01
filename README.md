@@ -75,9 +75,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 [AI Chatbot](https://github.com/Mostafa-Seyedi/AI-Chatbot) | Intent classification & seq2seq response generation | PyTorch, Transformers |
-| 📊 [Kaggle Experiments](https://github.com/Mostafa-Seyedi/Kaggle) | Feature engineering, ensembles, and evaluation pipelines | scikit-learn, XGBoost |
-| 🌐 [Django Web App](https://github.com/Mostafa-Seyedi/Django-Projects) | REST API with auth and ORM models | Django, PostgreSQL |
-| 🐍 [Python Projects](https://github.com/Mostafa-Seyedi/Python-Projects) | Collection of Python practice and mini-projects | Python |
+| 📊 [Kaggle Experiments](https://github.com/Mostafa-Seyedi/kaggle_competitions-) | Feature engineering, ensembles, and evaluation pipelines | scikit-learn, XGBoost |
+| 🌐 [Django Web App](https://github.com/Mostafa-Seyedi/Django_projects) | REST API with auth and ORM models | Django, PostgreSQL |
+| 🐍 [Python Projects](https://github.com/Mostafa-Seyedi/python-projects) | Collection of Python practice and mini-projects | Python |
 
 ---
 
