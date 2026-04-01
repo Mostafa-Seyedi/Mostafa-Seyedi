@@ -18,10 +18,42 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <!-- (keep your existing badge row, and ADD these two) -->
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mostafa-Seyedi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -42,9 +74,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [AI Chatbot](https://github.com/Mostafa-Seyedi/...) | Intent classification & seq2seq response generation | PyTorch, Transformers |
-| 📊 [Kaggle Experiments](https://github.com/Mostafa-Seyedi/...) | Feature engineering, ensembles, and evaluation pipelines | scikit-learn, XGBoost |
-| 🌐 [Django Web App](https://github.com/Mostafa-Seyedi/...) | REST API with auth, ORM models, deployed on Railway | Django, PostgreSQL |
+| 🤖 [AI Chatbot](https://github.com/Mostafa-Seyedi/AI-Chatbot) | Intent classification & seq2seq response generation | PyTorch, Transformers |
+| 📊 [Kaggle Experiments](https://github.com/Mostafa-Seyedi/Kaggle) | Feature engineering, ensembles, and evaluation pipelines | scikit-learn, XGBoost |
+| 🌐 [Django Web App](https://github.com/Mostafa-Seyedi/Django-Projects) | REST API with auth and ORM models | Django, PostgreSQL |
+| 🐍 [Python Projects](https://github.com/Mostafa-Seyedi/Python-Projects) | Collection of Python practice and mini-projects | Python |
 
 ---
 
