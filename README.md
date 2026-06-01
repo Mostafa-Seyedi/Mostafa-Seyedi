@@ -116,8 +116,12 @@ Collection of Python practice and mini-projects
 ## 〉GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Seyedi&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Seyedi&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Seyedi&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Seyedi&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=86400" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Seyedi&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
