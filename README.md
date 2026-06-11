@@ -26,7 +26,7 @@ class MostafaSeyedi:
     role       = "MSc Student · Data Science & Engineering"
     university = "Politecnico di Torino"
     location   = "Turin, Italy 🇮🇹"
-    focus      = ["NLP", "Machine Learning", "AI Engineering"]
+    focus      = ["Data Analysis", "Machine Learning", "AI Engineering"]
     goal       = "Bridge the gap between research and real-world engineering"
     status     = "Open to opportunities"
 ```
